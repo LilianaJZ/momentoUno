@@ -1,0 +1,22 @@
+
+     
+Ejercicio 11: Cálculo de impuestos sobre ventas por categoría de un
+producto
+ 
+        Un sistema de ventas clasifica los productos en diferentes categorías
+        con diferentes tasas de impuestos. Escribe un programa que permita al
+        usuario ingresar el precio de un producto y seleccionar su categoría, y
+        luego calcular el precio final con el impuesto agregado. Las categorías
+        y tasas de impuestos son:
+      
+        <li>Electrónicos: 19% de IVA.</li>
+        <li>Ropa: 12% de IVA.</li>
+        <li>Alimentos: 5% de IVA.</li>
+        <li>Medicamentos: Exentos de IVA.</li>
+    
+      
+        El programa debe calcular y mostrar el precio final con el IVA agregado
+        (o sin IVA en caso de medicamentos). Si se selecciona una categoría no
+        válida, debe mostrar un mensaje de error.
+      
+Solución: en consola y por prompts
